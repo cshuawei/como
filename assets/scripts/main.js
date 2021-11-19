@@ -1,0 +1,1 @@
+"use strict";$(function(o){var n=o("html, body");console.log("main.js changed"),o("#scroll_top").on("click",function(){return n.animate({scrollTop:0},600),!1})});
